@@ -79,4 +79,4 @@ public class Usuario {
 
 __Emojis__
 ✋😄🤙
-Deixe sua mensagem na issue #1
+Deixe sua mensagem na [issue de #1](https://github.com/AlexSilva08/Ola-mundo/issues/1)
