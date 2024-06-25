@@ -4,7 +4,7 @@
 
 Alteração do código direto no site do GitHub, *brabo!*
 
-# __Estudo__ _de_ linguagem (~~Java~~) **markdown**
+# __Estudo__ _de_ linguagem (~~Java~~) **markdown M**⬇️
 ---
 ***
 ## _*Misturando códigos*_
